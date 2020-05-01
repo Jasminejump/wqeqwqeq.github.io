@@ -1,18 +1,29 @@
 ---
 layout: default
 title: Stanley Yuan's Project Page 
-description: Welcome to my personal project page. I am actively seeking full-time opportunity as a data scientist. If you have a position, please reach me at wqeqsada2131@gmail.com or 3366926033
+description: Welcome to my personal project page. I am actively seeking full-time opportunity as a data scientist. If you have a position, please reach me at *wqeqsada2131@gmail.com* or *3366926033*
 ---
 
-# BUAD5082 Machine Learning 2
-## Team 20
-### Sean Pedersen | Zhehui Yuan | Brooke Ealey | Cole Smith
-<img src="/img/ML.png" width="800" height="200" class="img-responsive" alt=""> 
+# Machine Learning Project
+ - [Identify Fraud](/code/index.md)
+ - [Loan Granting](/code/index.md)
+ - [Predicting House Price (Kaggle)](/code/index.md)
+ - [Forecasting Visitor Volume for Japanese Restaurant (Kaggle)](/code/index.md)
+ - [Catgorical Encoding Chanllenge (Kaggle)](/code/index.md)
+# Web Scraping Project 
+ - [AWS Lambda Scrape Yahoo Finance Stock Info](/code/index.md)
+ - [Bank Projects web scraping]((/code/index.md))
+ - [macy.com web scraping](/code/index.md)
+# Deep learning Project
+ - [Avocado Category Classification](/code/index.md)
+# Verizon capstone 
+ - [Forecasting Population Growth](/code/index.md)
+ - [Cell Tower Optimization](/code/index.md)
+# Visualization Project 
+ - [Multiple Plotly Dashboards](/code/index.md)
+# Imputation pipeline 
+ - [Survey Monkey Imputation](/code/index.md)
+# ETL Project 
+ - [Fuzzy Matching](/code/index.md)
+ - [US VISA Data Warehouse Workflow](/code/index.md)
 
-
-### Team Presentation 1 Machine Learning SVM
- - [SVM and ROC application ](/code/index.md)
-
-
-### Team Presentation 2 Time series
- - [ Predicting visitor volume for Japanese restaurants ](/TP2/Index.md)
