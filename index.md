@@ -20,9 +20,9 @@ description: Welcome to my personal project page. I am actively seeking full-tim
  - [Forecasting Population Growth](/code/index.md)
  - [Cell Tower Optimization](/code/index.md)
 # Visualization Project 
- - [Multiple Plotly Dashboards](/code/index.md)
+ - [Multiple Plotly Dashboards](wqeqwqeq/plotly_dash_mapbox/README.md)
 # Imputation pipeline 
- - [Survey Monkey Imputation](/code/index.md)
+ - [Survey Monkey Imputation](wqeqwqeq/Survey-Monkey/Readme.md)
 # ETL Project 
  - [Fuzzy Matching](/code/index.md)
  - [US VISA Data Warehouse Workflow](/code/index.md)
