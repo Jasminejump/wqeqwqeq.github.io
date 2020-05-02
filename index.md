@@ -20,8 +20,8 @@ This site is meant to showcase some of my completed/on-going projects. Additiona
 
 # My Projects
  - [Machine Learning Project](/Machine_Learning_Project/index.md)
- - [Web Scraping Project](/WebScrapping/index.md)
  - [Deep learning Project](/Deep Learning Project/index.md)
+ - [Web Scraping Project](/WebScrapping/index.md)
  - [Verizon capstone](/Verizon/index.md) 
  - [Visualization Project](/Plotly_Dash_Visualization/index.md) 
  - [Imputation pipeline](/Survey-Monkey/index.md) 
