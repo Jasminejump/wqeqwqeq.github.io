@@ -3,7 +3,7 @@ layout: default
 title: Stanley Yuan's Project Page 
 description: Welcome to my personal project page. I am actively seeking full-time opportunity as a data scientist. If you have a position, please reach me at wqeqsada2131@gmail.com or 3366926033
 ---
-# My Summary 
+# My personal Summary 
 - **Resume** can get access [here](/stanley_resume.pdf)
 - Chinese Resume [here](/中文简历.pdf)
 
@@ -16,7 +16,7 @@ My capstone for verizon built a predictive model to accurately forcast the popul
 
 # Why Do I create this site 
 
-This site is meant to showcase some of my completed projects. Additionally, the idea of this site is to not only show the work I have done, but to also present my progression over time, and the evolution of the completeness of the projects as I learn more in the field. Please bear with me, the projects posted here may be complete - but usually serve as learning opportunities for me to construct my skills in analytics. Keep this in mind, and send me feedback if you think something could be improved! Thank you!
+This site is meant to showcase some of my completed/on-going projects. Additionally, the idea of this site is to not only show the work I have done, but to also present my progression over time, and the evolution of the completeness of the projects as I learn more in the field. Please send me feedback if you think something could be improved! Thank you!
 
 # My Projects
 
