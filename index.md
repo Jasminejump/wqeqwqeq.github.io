@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Stanley Yuan's Project Page 
-description: Welcome to my personal project page. I am actively seeking full-time opportunity as a data scientist. If you have a position, please reach me at **wqeqsada2131@gmail.com** or **3366926033**
+description: Welcome to my personal project page. I am actively seeking full-time opportunity as a data scientist. If you have a position, please reach me at wqeqsada2131@gmail.com or 3366926033
 ---
 # My Summary 
-- Resume can get access [here](/stanley_resume.pdf)
+- *Resume* can get access [here](/stanley_resume.pdf)
 - Chinese Resume [here](/中文简历.pdf)
 
 I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I am proficient at Python, R and SQL. My experience at ETL, machine learning, deep learning, optimization and cloud computing can extract insightful business value with data in gigabytes
