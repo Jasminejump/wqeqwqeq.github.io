@@ -20,26 +20,23 @@ This site is meant to showcase some of my completed/on-going projects. Additiona
 
 # My Projects
 
-## Machine Learning Project
- - [Identify Fraud](/code/index.md)
- - [Loan Granting](/code/index.md)
- - [Predicting House Price (Kaggle)](/code/index.md)
- - [Forecasting Visitor Volume for Japanese Restaurant (Kaggle)](/code/index.md)
- - [Catgorical Encoding Chanllenge (Kaggle)](/code/index.md)
-## Web Scraping Project 
+ ## Machine Learning Project
+ -[Go to my ML projects](/Machine_Learning_Project/index.md)
+ 
+ ## Web Scraping Project 
  - [AWS Lambda Scrape Yahoo Finance Stock Info](/code/index.md)
  - [Bank Projects web scraping]((/code/index.md))
  - [macy.com web scraping](/code/index.md)
-## Deep learning Project
+ ## Deep learning Project
  - [Avocado Category Classification](/code/index.md)
-## Verizon capstone 
+ ## Verizon capstone 
  - [Forecasting Population Growth](/code/index.md)
  - [Cell Tower Optimization](/code/index.md)
-## Visualization Project 
+ ## Visualization Project 
  - [Multiple Plotly Dashboards](/plotly_dash_mapbox/index.md)
-## Imputation pipeline 
+ ## Imputation pipeline 
  - [Survey Monkey Imputation](/Survey-Monkey/index.md)
-## ETL Project 
+ ## ETL Project 
  - [Fuzzy Matching](/code/index.md)
  - [US VISA Data Warehouse Workflow](/code/index.md)
 
