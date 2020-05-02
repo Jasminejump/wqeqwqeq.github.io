@@ -9,8 +9,8 @@ description: Welcome to my personal project page. I am actively seeking full-tim
 
 I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I am proficient at Python, R and SQL. My experience at ETL, machine learning, deep learning, optimization and cloud computing can extract insightful business value with data in gigabytes
 
-My summer internship at Global AI.(a startup in New York) builds imputation pipeline and data warehouse dealing with data in gigabytes,
-deploys dashboard, machine learning models on HerokU and AWS EC2, and scrapes large dataset from various source automatically in parallel. 
+My summer internship at Global AI.(a startup in New York) built imputation pipeline and data warehouse dealing with data in gigabytes,
+deployed dashboard, machine learning models on HerokU and AWS EC2, and scraped large dataset from various source automatically in parallel. 
 
 My capstone for verizon built a predictive model to accurately forcast the population growth and then designed a optimization model to select cell tower location. Our combined model approximately saved over 5 millions budget. 
 
