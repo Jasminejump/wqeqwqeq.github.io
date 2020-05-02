@@ -7,12 +7,11 @@ description: Welcome to my personal project page. I am actively seeking full-tim
 - **Resume** can get access [here](/stanley_resume.pdf)
 - Chinese Resume [here](/中文简历.pdf)
 
-I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I am proficient at Python, R and SQL. My experience at ETL, machine learning, deep learning, optimization and cloud computing can extract insightful business value with data in gigabytes
+I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I have a B.S.Statistic degree at Wake Forest Univerity. I am proficient in Python, R and SQL. 
 
-My summer internship at Global AI.(a startup in New York) built imputation pipeline and data warehouse dealing with data in gigabytes,
-deployed dashboard, machine learning models on HerokU and AWS EC2, and scraped large dataset from various source automatically in parallel. 
+--My summer internship at Global AI.(a startup in New York) is responsible for building imputation pipeline and data warehouse with data in gigabytes, deploying dashboard, machine learning models on HerokU and AWS EC2, and scraping large dataset from various source automatically in parallel. 
 
-My capstone for verizon built a predictive model to accurately forcast the population growth and then designed a optimization model to select cell tower location. Our combined model approximately saved over 5 millions budget. 
+--My capstone for verizon built a predictive model to accurately forcast the population growth and then designed a optimization model to select cell tower location. Our combined model approximately saved over 5 millions budget. 
 
 # Why Do I create this site 
 
