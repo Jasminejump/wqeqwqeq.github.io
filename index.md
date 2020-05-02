@@ -20,10 +20,10 @@ This site is meant to showcase some of my completed/on-going projects. Additiona
 
 # My Projects
 
- ## Machine Learning Project
+## Machine Learning Project
  -[Go to my ML projects](/Machine_Learning_Project/index.md)
  
- ## Web Scraping Project 
+## Web Scraping Project 
  - [AWS Lambda Scrape Yahoo Finance Stock Info](/code/index.md)
  - [Bank Projects web scraping]((/code/index.md))
  - [macy.com web scraping](/code/index.md)
