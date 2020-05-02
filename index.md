@@ -19,24 +19,10 @@ My capstone for verizon built a predictive model to accurately forcast the popul
 This site is meant to showcase some of my completed/on-going projects. Additionally, the idea of this site is to not only show the work I have done, but to also present my progression over time, and the evolution of the completeness of the projects as I learn more in the field. Please send me feedback if you think something could be improved! Thank you!
 
 # My Projects
-
-## Machine Learning Project
- - [Go to my ML projects](/Machine_Learning_Project/index.md)
- 
-## Web Scraping Project 
- - [AWS Lambda Scrape Yahoo Finance Stock Info](/code/index.md)
- - [Bank Projects web scraping]((/code/index.md))
- - [macy.com web scraping](/code/index.md)
- ## Deep learning Project
- - [Avocado Category Classification](/code/index.md)
- ## Verizon capstone 
- - [Forecasting Population Growth](/code/index.md)
- - [Cell Tower Optimization](/code/index.md)
- ## Visualization Project 
- - [Multiple Plotly Dashboards](/plotly_dash_mapbox/index.md)
- ## Imputation pipeline 
- - [Survey Monkey Imputation](/Survey-Monkey/index.md)
- ## ETL Project 
- - [Fuzzy Matching](/code/index.md)
- - [US VISA Data Warehouse Workflow](/code/index.md)
-
+ - [Machine Learning Project](/Machine_Learning_Project/index.md)
+ - [Web Scraping Project](/WebScrapping/index.md)
+ - [Deep learning Project](/Deep Learning Project/index.md)
+ - [Verizon capstone](/Verizon/index.md) 
+ - [Visualization Project](/Plotly_Dash_Visualization/index.md) 
+ - [Imputation pipeline](/Survey-Monkey/index.md) 
+ - [ETL Project](/FuzzyMatching/index.md) 
